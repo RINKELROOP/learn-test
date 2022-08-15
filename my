@@ -1,0 +1,4 @@
+int a =b;
+int b =c;
+c = a+b;
+console.log(c)
