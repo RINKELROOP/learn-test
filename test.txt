@@ -1,8 +1,4 @@
-<html>
-<head>
-<title> test </title>
-<head.
-<body>
-<hello world>
-</body>
-</html>
+today typing speed
+16 aug 2022
+speed 27 wpm;
+accuracy 96%
