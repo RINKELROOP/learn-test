@@ -1,13 +1,7 @@
 today speed
-17 aug 2022
-speed 27 wpm;
+24 aug 2022
+speed 29 wpm;
 accurancy 100%
 
 
 
-Class Line {
-    public:
-Point start;
-Point end;
-double length;
-}
